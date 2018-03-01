@@ -1,0 +1,11 @@
+<resources>
+    <dimen name="txt_small">14sp</dimen>
+    <dimen name="txt_medium">16sp</dimen>
+    <dimen name="txt_large">24sp</dimen>
+
+    <dimen name="text_10">10dp</dimen>
+    <dimen name="text_14">14dp</dimen>
+    <dimen name="text_32">32dp</dimen>
+    <dimen name="text_60">60dp</dimen>
+    <dimen name="text_80">80dp</dimen>
+</resources>
